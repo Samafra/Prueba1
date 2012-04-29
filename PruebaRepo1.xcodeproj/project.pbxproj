@@ -16,15 +16,15 @@
 
 /* Begin PBXFileReference section */
 		C3948B3F154D8C0D00F47657 /* PruebaRepo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PruebaRepo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3948B44154D8C0D00F47657 /* PruebaRepo1-Info.plist */ = {isa = PBXFileReference; path = "PruebaRepo1-Info.plist"; sourceTree = "<group>"; };
+		C3948B44154D8C0D00F47657 /* PruebaRepo1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PruebaRepo1-Info.plist"; sourceTree = "<group>"; };
 		C3948B46154D8C0D00F47657 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C3948B48154D8C0D00F47657 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C3948B4A154D8C0D00F47657 /* PruebaRepo1-Prefix.pch */ = {isa = PBXFileReference; path = "PruebaRepo1-Prefix.pch"; sourceTree = "<group>"; };
-		C3948B4B154D8C0D00F47657 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		C3948B4A154D8C0D00F47657 /* PruebaRepo1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PruebaRepo1-Prefix.pch"; sourceTree = "<group>"; };
+		C3948B4B154D8C0D00F47657 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C3948B4C154D8C0D00F47657 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C3948B4F154D8C0E00F47657 /* main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = main.html; path = HTML/main.html; sourceTree = "<group>"; };
 		C3948B51154D8C0E00F47657 /* NKit.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = NKit.js; path = /Library/Frameworks/NimbleKit/NKit.js; sourceTree = "<absolute>"; };
-		C3948B53154D8C0E00F47657 /* NKit.xcconfig */ = {isa = PBXFileReference; name = NKit.xcconfig; path = /Library/Frameworks/NimbleKit/NKit.xcconfig; sourceTree = "<absolute>"; };
+		C3948B53154D8C0E00F47657 /* NKit.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = NKit.xcconfig; path = /Library/Frameworks/NimbleKit/NKit.xcconfig; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
